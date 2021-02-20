@@ -1,0 +1,23 @@
+commit 0e5890ff36d791aee6e1eb567f7fec22dda77622
+Author: Manali <manali.chouhan123@gmail.com>
+Date:   Sun Feb 7 22:15:07 2021 +0530
+
+    Task1: adding files like .class, .exe,.jar in gitignore
+
+commit f2ee037fe5824b8d659863b9fb28b3d8f744e6f8
+Author: Manali <manali.chouhan123@gmail.com>
+Date:   Wed Feb 3 13:59:13 2021 +0530
+
+    WI1: HelloWorld file updated with dots
+
+commit a466a93c84e6f2f3c958e6d1dd57f99716d4b3e2
+Author: Manali <manali.chouhan123@gmail.com>
+Date:   Wed Feb 3 13:58:06 2021 +0530
+
+    WI1:HelloWorld.txt Mofified to see the changes
+
+commit 66f3d80bde09a9ce1d99821181f07da9d3865b9b
+Author: Manali <manali.chouhan123@gmail.com>
+Date:   Wed Feb 3 13:55:52 2021 +0530
+
+    WI1:HelloWorld.txt Created
