@@ -4,5 +4,8 @@ To check the update operation on file
 update the file to check the status command
 
 class HelloWorld{
-
+  //Adding the function
+  
+  public void display(){
+  }
 }
